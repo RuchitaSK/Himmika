@@ -1,0 +1,78 @@
+body{
+	background-image:url('FC.jpg');
+	background-size:cover;
+	background-attachment:fixed;
+}
+.nav{
+	height:70px;
+	background-color:powderblue;
+}
+.nav div{
+	display:inline-block;
+	position:absolute;
+	padding:25px;
+	font-size:25px;
+	color:black;
+	font-family:castellar;
+}
+.nav ul{
+	position:absolute;
+	right:7px;
+}
+.nav ul li{
+	display:inline-block;
+}
+.nav ul li a{
+	color:black;
+	padding:7px;
+}
+h1{
+	text-align:center;
+	color:black;
+	text-shadow:2px 2px grey;
+}
+h2{
+	text-align:center;
+}
+.text-container{
+	text-align:center;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	height:20vh;
+}
+.footer{
+	color:white;
+		text-align:center;
+}
+.footer a{
+	color:white;
+	text-align:center;
+	float:center;
+}
+.nav1{
+	height:70px;
+	background-color:powderblue;
+}
+.nav1 div{
+	display:inline-block;
+	position:absolute;
+	padding:30px;
+	font-size:25px;
+	color:black;
+	font-family:castellar;
+}
+.nav1 ul{
+	position:absolute;
+	right:7px;
+}
+.nav1 ul li{
+	display:inline-block;
+}
+.nav1 ul li a{
+	color:black;
+	padding:7px;
+}
+.door{
+	text-align:center;
+}
